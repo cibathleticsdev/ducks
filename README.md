@@ -1,1 +1,1 @@
-"# ducks" 
+# Welcome to the Ducks' Website!
