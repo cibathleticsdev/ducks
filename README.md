@@ -6,6 +6,7 @@ People usually pay with bitcoins because there are very low commissions and it's
 ## Who are it's owners?
 The Ducks Web will be developed in GitHub by [Cibernetic Atheletics Developers](https://github.com/cibathleticsdev/)
 ## Some code trials
+This is an example of a html code:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -20,4 +21,30 @@ The Ducks Web will be developed in GitHub by [Cibernetic Atheletics Developers](
   <p>Welcome to my blog</p>
 </body>
 </html>
+```
+
+This is and example of css code:
+```
+a {
+  color: black;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: serif;
+}
+```
+
+This is an example of javascript code:
+```
+var hello = true;
+
+if (hello == true) {
+  console.log('Hello World!')
+} else if (hello == false) {
+  console.log('Bye World')
+} else {
+  console.log('Invalid entry')
+}
 ```
