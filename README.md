@@ -41,10 +41,10 @@ This is an example of javascript code:
 var hello = true;
 
 if (hello == true) {
-  console.log('Hello World!')
+  console.log('Hello World!');
 } else if (hello == false) {
-  console.log('Bye World')
+  console.log('Bye World');
 } else {
-  console.log('Invalid entry')
+  console.log('Invalid entry');
 }
 ```
