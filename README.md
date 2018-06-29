@@ -5,3 +5,4 @@ The Ducks Web is a site where you can trade with ducks. Once you are logged in y
 People usually pay with bitcoins because there are very low commissions and it's anonymous, but you also can charge or pay with PayPal, PaySafeCards, credit card, etc.
 ## Who are it's owners?
 The Ducks Web will be developed in GitHub by [Cibernetic Atheletics Developers](https://github.com/cibathleticsdev/)
+#### Hello?
